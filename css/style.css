@@ -1,0 +1,61 @@
+.navbar {
+    background-color: rgba(104, 120, 131, 0.7);
+}
+.parallax-one {
+    min-height: 700px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .parallax-content-one{
+    border: 0px black solid;
+    position: absolute;
+    border-radius: 50px;
+    top: 50%;
+    left: 50%;
+    min-height: 200px; 
+    min-width: 1000px; 
+    transform: translate(-50%, -50%);
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+    padding-top: 55px;
+    background-color: rgb(40, 38, 38, 0.5);
+}
+
+#one{
+    background-image: url("/img/1.jpg");
+}
+
+#two{
+    background-image: url("/img/2.jpg");
+}
+
+.parallax-two {
+    min-height: 700px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+.parallax-content-two{
+    border: 0px black solid;
+    position: absolute;
+    border-radius: 50px;
+    top: 50%;
+    left: 50%;
+    min-height: 200px; 
+    min-width: 1000px; 
+    transform: translate(-50%, -50%);
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+    padding-top: 55px;
+    background-color: rgb(40, 38, 38, 0.5);
+}
+
+
+
